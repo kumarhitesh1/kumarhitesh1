@@ -23,7 +23,7 @@
 
 Hey! I'm **Hitesh Kumar**, a final-year **B.Tech CSE student** at IIIT Sonepat with a solid grip on full-stack development. I love turning ideas into real, working web applications — from clean REST APIs to responsive UIs.
 
-- 🎓 &nbsp;Studying @ **IIIT Sonepat** | CGPA: **7.96**
+- 🎓 &nbsp;Studying @ **IIIT Sonepat** | CGPA: **7.83**
 - 🔭 &nbsp;Currently building with the **MERN stack**
 - 🧠 &nbsp;Solved **500+ DSA problems** on LeetCode & GeeksforGeeks
 - ☁️ &nbsp;Earned **6 Google Cloud Skill Badges**
@@ -97,7 +97,7 @@ Hey! I'm **Hitesh Kumar**, a final-year **B.Tech CSE student** at IIIT Sonepat w
 |---|---|
 | 💡 | Solved **500+ problems** on LeetCode & GeeksforGeeks |
 | ☁️ | Earned **6 Google Cloud Skill Badges** |
-| 🎓 | Maintaining **7.96 CGPA** at IIIT Sonepat |
+| 🎓 | Maintaining **7.83 CGPA** at IIIT Sonepat |
 
 ---
 
